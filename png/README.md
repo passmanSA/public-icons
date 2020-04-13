@@ -4,6 +4,7 @@
 
 | nom  |  |
 |------------- | :-------------: |
-| argocd-logo.png | <img src="https://github.com/passmanSA/public-icons/blob/master/png/argocd-logo.png" width=40 align=left> |
-| check-circle-green.png | <img src="https://github.com/passmanSA/public-icons/blob/master/png/check-circle-green.png" width=40 align=left> |
-| heart-green.png | <img src="https://github.com/passmanSA/public-icons/blob/master/png/heart-green.png" width=40 align=left> |
+| argocd-logo.png | <img src="https://github.com/passmanSA/public-icons/blob/master/png/argocd-logo.png" width=32 align=center> |
+| check-circle-green.png | <img src="https://github.com/passmanSA/public-icons/blob/master/png/check-circle-green.png" width=32 align=center> |
+| exclamation-circle-yellow.png | <img src="https://github.com/passmanSA/public-icons/blob/master/png/exclamation-circle-yellow.png" width=32 align=center> |
+| heart-green.png | <img src="https://github.com/passmanSA/public-icons/blob/master/png/heart-green.png" width=32 align=center> |
