@@ -3,7 +3,7 @@
 
 
 | nom  |  |
-|------------- | :-------------: |
+|------------- | :------------- |
 | <img src="https://github.com/passmanSA/public-icons/blob/master/png/argocd-logo.png" width=32 align=center> | https://github.com/passmanSA/public-icons/blob/master/png/argocd-logo.png |
 | <img src="https://github.com/passmanSA/public-icons/blob/master/png/arrow-alt-circle-up.png" width=32 align=center> | https://github.com/passmanSA/public-icons/blob/master/png/arrow-alt-circle-up.png |
 | <img src="https://github.com/passmanSA/public-icons/blob/master/png/check-circle-green.png" width=32 align=center> | https://github.com/passmanSA/public-icons/blob/master/png/check-circle-green.png |
