@@ -5,7 +5,7 @@ couleurs notifications ArgoCD
 |:----------|-----------------|
 | #f4c000 | <img src="http://via.placeholder.com/40/f4c000/f4c000"> |
 | #18be94 | <img src="http://via.placeholder.com/40/18be94/18be94"> |
-| #e96d76 | <img src="http://via.placeholder.com/40/e0e0e0/e96d76"> |
+| #e96d76 | <img src="http://via.placeholder.com/40/e96d76/e96d76"> |
 
 
 | nom  |  |
