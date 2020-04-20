@@ -2,7 +2,7 @@
 
 
 
-| nom  |  |
+| image  | url |
 |------------- | :------------- |
 | <img src="https://github.com/passmanSA/public-icons/blob/master/png/argocd-logo.png" width=32 align=center> | https://github.com/passmanSA/public-icons/blob/master/png/argocd-logo.png |
 | <img src="https://github.com/passmanSA/public-icons/blob/master/png/arrow-alt-circle-up.png" width=32 align=center> | https://github.com/passmanSA/public-icons/blob/master/png/arrow-alt-circle-up.png |
@@ -13,7 +13,8 @@
 
 
 couleurs notifications ArgoCD
-| | |
+
+| hex code | couleurs|
 |:----------|-----------------|
 | #f4c000 | <img src="http://via.placeholder.com/40/f4c000/f4c000"> |
 | #18be94 | <img src="http://via.placeholder.com/40/18be94/18be94"> |
