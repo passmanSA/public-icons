@@ -1,0 +1,7 @@
+.login {
+  min-height: 100vh;
+  background-position: 15rem;
+  background-size: cover;
+  background: linear-gradient(to top left, rgba(122, 139, 207, 0.8) 0%, rgba(46, 50, 90, 0.8) 100%), url("https://raw.githubusercontent.com/passmanSA/public-icons/master/argo/blackhole.jpg");
+  display: flex;
+}
